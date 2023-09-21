@@ -1,0 +1,91 @@
+.speech {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: black;
+  }
+  
+   .direction {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: black;
+    background-color: hsl(78, 66%, 62%); 
+  }
+  
+   .direction:hover {
+    background-color: hsl(233, 53%, 59%); 
+    color: #f4f804;
+  }
+  
+  .mrs-linde {
+    color: hsl(278, 86%, 49%); 
+  }
+  .mrs-lindecls {
+    color: hsl(0, 86%, 49%); 
+  }
+  .mrs-lindecls:hover {
+    text-shadow:2px 2px 4px rgb(141, 101, 189);
+    border: 2px solid;
+    cursor: pointer;
+}
+    .dr-krogstad {
+    color: hsl(197, 94%, 26%); 
+  }
+
+
+  .cast-table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+  }
+  
+  .cast-table th, .cast-table td {
+    border: 1px solid #0808f3;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .cast-table th {
+    background-color: #e1dedc;
+    text-align: center; 
+    margin: 10%;
+  }
+  
+ 
+  .cast-table tbody tr:nth-child(even) {
+    background-color: #4fe0e8;
+    padding: 10%;
+  }
+  
+
+  .character {
+    color:#0e0e13
+  }
+  
+  .actor {
+    color: rgb(72, 7, 152);
+  }
+  
+  .understudy {
+    color: rgb(241, 173, 71);
+  }
+  
+  body, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+
+
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  nav
+  {
+    background-color: #8be9ce;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+ 
+ 
+  
